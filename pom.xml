@@ -39,5 +39,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>test-repo</finalName>
     </build>
 </project>
